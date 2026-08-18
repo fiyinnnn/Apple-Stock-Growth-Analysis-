@@ -1,7 +1,7 @@
 # 🍎 Apple Stock Analysis Dashboard
 
 ## 📌 Project Overview
-<img width="1166" height="602" alt="image" src="https://github.com/user-attachments/assets/7b9c8d93-054c-4a30-9a49-df0fa21cc737" />
+<img width="1280" height="683" alt="image" src="https://github.com/user-attachments/assets/a5ce0d24-57d0-4377-b841-c5d889d4c39f" />
 
 This project analyzes **Apple Inc. stock performance** using historical stock-market data in Microsoft Excel.
 
@@ -502,7 +502,8 @@ Suggested layout:
 ```
 
 
-<img width="1166" height="602" alt="image" src="https://github.com/user-attachments/assets/7b9c8d93-054c-4a30-9a49-df0fa21cc737" />
+<i<img width="1280" height="683" alt="image" src="https://github.com/user-attachments/assets/c22e3fe0-8990-435a-b635-3012137bb4e9" />
+
 
 ---
 
